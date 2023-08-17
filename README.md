@@ -2,6 +2,7 @@
 Exploring the Facebook’s Prophet model
 
 Imports:
+
 import numpy as np
 
 import pandas as pd
