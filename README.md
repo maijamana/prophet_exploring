@@ -3,10 +3,15 @@ Exploring the Facebook’s Prophet model
 
 Imports:
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 from prophet import Prophet
+
 import matplotlib.dates as mdates
+
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_percentage_error
 
 Data to test:
