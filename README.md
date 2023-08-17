@@ -1,5 +1,6 @@
 # prophet_exploring
-Exploring the Facebook’s Prophet model
+Exploring the Facebook’s Prophet model 
+
 
 Imports:
 
@@ -14,6 +15,7 @@ from prophet import Prophet
 import matplotlib.dates as mdates
 
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_percentage_error
+
 
 Data to test:
 you can take any of stock on this site and download historical data as csv
